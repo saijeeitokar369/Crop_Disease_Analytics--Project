@@ -156,12 +156,11 @@ The interactive dashboard includes:
 
 # 📷 Dashboard Preview
 
-> *(Add your Power BI dashboard screenshot here)*
 
-Example:
 
 ```
-images/dashboard.png
+images/<img width="1252" height="736" alt="Screenshot 2026-07-22 001127" src="https://github.com/user-attachments/assets/91b1d44d-34bf-4858-b77d-3ecc4e891340" />
+
 ```
 
 ---
